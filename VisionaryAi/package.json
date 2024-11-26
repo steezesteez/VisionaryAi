@@ -1,0 +1,13 @@
+
+{
+  "name": "visionary-ai-bot",
+  "version": "1.0.0",
+  "description": "A Twitter bot bootstrap for Visionary AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
